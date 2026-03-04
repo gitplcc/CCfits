@@ -1,5 +1,6 @@
-PROJECT(CCfits)
 CMAKE_MINIMUM_REQUIRED(VERSION 3.8)
+
+PROJECT(CCfits)
 
 # Allow the developer to select whether to build Dynamic or Static libraries
 OPTION (BUILD_SHARED_LIBS "Build Shared Libraries" OFF)
